@@ -4,6 +4,6 @@ Trabalho da segunda certificação em Linguagem de Programação 4 do curso téc
 
 Utiliza a framework NES.css (https://github.com/nostalgic-css/NES.css).
 
-Assignment of the first certification in Programming Language 4 of the Systems Development technical course, held in December 2021. HTML, CSS, PHP, JS, jQuery and mySQL. Made in duo.
+Assignment of the first certification in Programming Language 4 of the Systems Development technical course, held in December 2021. It uses HTML, CSS, PHP, JS, jQuery and mySQL. Made in duo.
 
 I used the framework NES.css (https://github.com/nostalgic-css/NES.css).
